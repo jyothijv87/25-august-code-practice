@@ -1,2 +1,2 @@
-line created by main
-line created by  main
+These line sare written my author jyothi
+This is my second line i hope it replicate in my Git
